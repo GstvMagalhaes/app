@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849973388195",
+    "project_id": "testando-cb27b",
+    "storage_bucket": "testando-cb27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849973388195:android:e575123e106eed37bbf016",
+        "android_client_info": {
+          "package_name": "com.example.iniciandoicons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849973388195-tgedu57fhsqdfkm8glmoj77bdkvog155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLudIVS5nDJihK_yZH1kRC98mGaUrBOlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849973388195-tgedu57fhsqdfkm8glmoj77bdkvog155.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
